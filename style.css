@@ -4,8 +4,12 @@ body {
 
 h1 {
     color: #09090a;
+    font-size: larger;
+    font-weight: bold;
 }
 
 h2 {
     color: rgb(165, 42, 42);
+    font-size: large;
+    font-weight: normal;
 }

@@ -1,5 +1,9 @@
 body {
-     background-color: rgb(228, 236, 236);
+    color: aqua;
+    font-size: large;
+    width: 1000px;
+    height: 500px;
+    background-color: beige;;
 }
 
 h1 {
